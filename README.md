@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Data Analysis Projects**
-- 🌱 I’m currently learning **SQL & PowerBI**
+- 🔭 I’m currently working on **Python Development & Data Analysis Projects**
+- 🌱 I’m currently learning **DSA**
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
-- 💬 Ask me about **Data Analysis Techniques**
+- 💬 Ask me about **Backend Development & Data Analysis Techniques**
 - 📫 How to reach me: **kirankumarkathe123@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I am not a coffee addict. But yea I do love coffee.**
 
 ##  About Me
 
-Passionate data analyst with a strong background in extracting, interpreting, and presenting data for meaningful insights. Proficient in SQL, Python, and data visualization tools such as Tableau. Experienced in leveraging statistical methods to drive business decisions and improve processes. Dedicated to continuous learning and applying analytical skills to solve complex challenges. Let's harness data together to unlock opportunities and drive innovation.
+Passionate Python Developer with a strong background in developing backend scalable applications and automation. Proficient in Python, SQL, Pandas, NumPy, MS Excel and Flask. Experienced in generating Weekly Status Reports, Conversion Reports and Automation. Dedicated to continuous learning and applying technical skills to solve complex challenges.
 
 
 
